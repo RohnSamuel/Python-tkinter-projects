@@ -1,3 +1,4 @@
 hello everyone
-This is the first project I have uploaded onto this platform
-The project is a Python Addition Calculator GUI built using Tkinter. 
+This is my first every repository
+This is a repository for python project using the python moudle tkinter 
+functions like: title(),label(), buttons, entry(), text(), Tk(),etc
